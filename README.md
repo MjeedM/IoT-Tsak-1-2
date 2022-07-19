@@ -5,7 +5,7 @@ Task 2: The first Synchronous Mission; runing the ESP32 and Changing its blink f
 
 ## Table of Contents
 * [Task 1: Speach to Text](#1)
-* [Task 2: ESP32-Run-Algorithm](#2)
+* [Task 2: ESP32 Run Algorithm](#2)
 
   - [1. Using Arduino IDE desktop APP](#3)
   
