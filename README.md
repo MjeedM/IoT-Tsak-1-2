@@ -13,10 +13,23 @@ Task 2: The first Synchronous Mission; runing the ESP32 and Changing its blink f
 
 <a name= "1"></a>
 ## Task 1: Speach to Text
-### Technologies Used
+Converting the Arabic speech into a text was done by taking advantage of the definitions and functions presented on the MDN website.
+
+The service works efficiently on these browsers:
+
+### For Desktop:
+- Chrome
+- Edge
+
+### For Mobile:
+- Chrome Android
+- Samsung Internet
+- WebView Android
+
+## Technologies Used
 - Web APIs
 ## Resources
-- https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+- [https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 
 <a name= "2"></a>
 ## Task 2: ESP32 Run Algorithm
